@@ -1,0 +1,11 @@
+node_modules
+typechain
+artifacts
+coverage
+cache
+
+.env
+.eslintcache
+flattened.txt
+coverage.json
+gasReporterOutput.json

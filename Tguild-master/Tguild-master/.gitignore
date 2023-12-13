@@ -1,0 +1,9 @@
+node_modules
+coverage
+build
+
+.env
+.eslintcache
+flattened.txt
+coverage.json
+gasReporterOutput.json
